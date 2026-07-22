@@ -88,13 +88,3 @@ Add your preferred license (e.g., MIT) in a LICENSE file.
 Author
 Built by the NEURA team.
 
-If you want, I can also generate:
-
-a shorter one-page README (more startup style), or
-a polished GitHub README with badges, architecture diagram, and screenshots section.
-Todo checklist (completed)
- Reviewed project files and dependencies
- Identified runtime flow and tool integrations
- Mapped required environment variables from .env.example
- Drafted a complete README tailored to this codebase
- Provided ready-to-paste content (no file edits performed in read-only mode)
